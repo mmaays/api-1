@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+width:calc(80%);
+margin:auto;
+
+}
+
+.row{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+}
+
+img {
+
+    height: 250px;
+    width: 400px;
+}
+
+
+h2{
+    width: 400px;
+}
